@@ -4,7 +4,7 @@ This is just a ReVanced Build with some patches I like.
 
 The patches I include in the latest builds:
 
-(Latest Download)https://github.com/Thezkiller03/YouTube-Revanced-APK/releases/latest  
+[Latest Download](https://github.com/Thezkiller03/YouTube-Revanced-APK/releases/latest)
 
 Patch  
 custom branding  
